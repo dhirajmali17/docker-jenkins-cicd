@@ -47,7 +47,10 @@ docker-jenkins-cicd/
 ├── Jenkinsfile
 ├── index.html
 ├── README.md
-│
+|
+├── architecture/
+│ └── architecture-diagram.png
+|
 ├── project-docs/
 │   └── CICD Pipeline for Containerized Web Application Using Jenkins & Docker.pdf
 │
@@ -71,39 +74,39 @@ docker-jenkins-cicd/
 
 ### 🔹 GitHub Repository
 
-![GitHub](screenshots/01-github-repo.png)
+![GitHub](screenshots/1-github-repo.png)
 
 ### 🔹 Jenkins Job Creation
 
-![Jenkins Job](screenshots/02-jenkins-new-job.png)
+![Jenkins Job](screenshots/2-jenkins-new-job.png)
 
 ### 🔹 Pipeline Configuration
 
-![Pipeline Config](screenshots/03-jenkins-pipeline-config.png)
+![Pipeline Config](screenshots/3-jenkins-pipeline-config.png)
 
 ### 🔹 Branch Configuration
 
-![Branch](screenshots/04-jenkins-branch-config.png)
+![Branch](screenshots/4-jenkins-branch-config.png)
 
 ### 🔹 Successful Pipeline Execution
 
-![Success](screenshots/05-jenkins-job-success.png)
+![Success](screenshots/5-jenkins-job-success.png)
 
 ### 🔹 Pipeline Stage View
 
-![Stages](screenshots/06-jenkins-stage-view.png)
+![Stages](screenshots/6-jenkins-stage-view.png)
 
 ### 🔹 Pipeline Overview
 
-![Overview](screenshots/07-jenkins-pipeline-overview.png)
+![Overview](screenshots/7-jenkins-pipeline-overview.png)
 
 ### 🔹 Detailed Pipeline Steps
 
-![Steps](screenshots/08-jenkins-pipeline-steps.png)
+![Steps](screenshots/8-jenkins-pipeline-steps.png)
 
 ### 🔹 Docker Hub Image
 
-![DockerHub](screenshots/09-dockerhub-image.png)
+![DockerHub](screenshots/9-dockerhub-image.png)
 
 ### 🔹 Running Container
 
