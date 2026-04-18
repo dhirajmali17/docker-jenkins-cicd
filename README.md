@@ -1,4 +1,4 @@
-<img width="1920" height="697" alt="image" src="https://github.com/user-attachments/assets/dcb9dd4e-1085-4b72-92e0-91456e56fbb2" /># 🚀 CICD Pipeline for Containerized Web Application Using Jenkins & Docker
+# 🚀 CICD Pipeline for Containerized Web Application Using Jenkins & Docker
 
 ## 📌 Project Description
 
